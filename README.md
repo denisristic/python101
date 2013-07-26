@@ -1,4 +1,4 @@
-python101
+python101 by Denis Ristic
 =========
 
-Python 101
+Short code snippets for learning Paython 3
